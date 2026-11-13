@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Rushabh 👋
 
-<!--
-**shah20/shah20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with **10+ years** of experience building cloud-native platforms,
+distributed systems, and full-stack applications. Currently a **Senior Software Engineer II at PowerSchool**, Bangalore.
 
-Here are some ideas to get you started:
+**What I work on**
+- ⚡ Event-driven, serverless platforms on AWS — including a pipeline processing **60M+ events/day**
+- 🔄 Cloud-native ETL and data integration with Lambda, Step Functions & EventBridge
+- 🧩 Full-stack products with Node.js, TypeScript, React, and micro-frontends
+- 🛠️ Developer tooling — a VS Code/Cursor extension that cut environment setup time by **50%**, and an MCP-powered on-call assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I use**
+`TypeScript` `Node.js` `React` `AWS` `Kinesis` `Lambda` `Step Functions` `DynamoDB` `MongoDB` `Docker` `AWS CDK` `Jest`
+
+**Certifications**
+AWS Solutions Architect – Professional · Solutions Architect – Associate · Developer – Associate · AI Practitioner
+
+**Find me**
+[Website](https://shah20.github.io) · [LinkedIn](https://www.linkedin.com/in/shah20/) · [Resume](https://shah20.github.io/assets/Rushabh_Shah_Resume.pdf)
