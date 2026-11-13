@@ -13,7 +13,10 @@ distributed systems, and full-stack applications. Currently a **Senior Software 
 `TypeScript` `Node.js` `React` `AWS` `Kinesis` `Lambda` `Step Functions` `DynamoDB` `MongoDB` `Docker` `AWS CDK` `Jest`
 
 **Certifications**
-AWS Solutions Architect – Professional · Solutions Architect – Associate · Developer – Associate · AI Practitioner
+- AWS Certified Solutions Architect – Professional
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate
+- AWS Certified AI Practitioner
 
 **Find me**
 [Website](https://shah20.github.io) · [LinkedIn](https://www.linkedin.com/in/shah20/) · [Resume](https://shah20.github.io/assets/Rushabh_Shah_Resume.pdf)
